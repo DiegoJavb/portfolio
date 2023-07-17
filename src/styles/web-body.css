@@ -1,0 +1,7 @@
+.web-body {
+  position: relative;
+  height: 100%;
+  margin-left: 50px;
+  width: calc(100%-50px);
+  background-color: greenyellow;
+}
